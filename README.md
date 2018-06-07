@@ -1,2 +1,3 @@
-# attack-monkey.github.io
-Attack Monkey (Ben Clark)'s Projects
+# attack-monkey
+
+*Attack Monkey (Ben Clark)'s Projects*
