@@ -1,3 +1,4 @@
-# attack-monkey
+## Ben Clark / attack-monkey / Projects
 
-*Attack Monkey (Ben Clark)'s Projects*
+
+* zero - A no library javascript application framework *(Or how to build applications with javascript)*
